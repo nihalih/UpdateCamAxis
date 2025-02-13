@@ -1,0 +1,8 @@
+[
+    {
+        "ip": "192.168.8.199",
+        "username": "root",
+        "password": "1234",
+        "firmware_file": "fireware.bin"
+    }
+]
